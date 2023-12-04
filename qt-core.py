@@ -2,11 +2,12 @@ import os
 import sys
 
 import numpy as np
-from PyQt5.QtGui import QPixmap
-from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QVBoxLayout, QWidget, QTextEdit, QHBoxLayout, QGroupBox
 from PyQt5.QtCore import pyqtSlot, Qt
-from MCENet.test2 import evaluate_tflite_model
+from PyQt5.QtGui import QPixmap
+from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QVBoxLayout, QWidget, QTextEdit, QHBoxLayout, \
+    QGroupBox
 from PyQt5.QtWidgets import QLabel
+
 from predict import predict
 
 
