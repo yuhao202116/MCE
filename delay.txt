@@ -1,0 +1,6 @@
+21165
+100 example time cost = 18.333707368s, single graph = 183.33707368ms
+21165
+100 example time cost = 33.544152762s, single graph = 335.44152762ms
+21165
+100 example time cost = 143.995922171s, single graph = 1439.95922171ms
